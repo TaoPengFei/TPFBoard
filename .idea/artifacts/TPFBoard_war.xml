@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TPFBoard:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tpfboard.war">
+      <element id="artifact" artifact-name="TPFBoard:war exploded" />
+    </root>
+  </artifact>
+</component>
